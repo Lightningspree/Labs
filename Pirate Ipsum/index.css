@@ -1,0 +1,19 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family:'Nanum Brush Script', sans-serif;
+    background-color: #ccc;
+    height: 100vh;
+    overflow: hidden;
+}
+.image1{
+    float: right;
+    border: 10px solid #ddd;
+    transform: rotate(10deg);
+}
+.image2{
+    float: left;
+    border: 10px solid #ddd;
+    transform: rotate(-10deg);
+}
