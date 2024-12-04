@@ -22,13 +22,4 @@ function dropDown() {
 		alphabeat.style.display = "none"
 		nums.style.display = 'block'
 	});
-
-	/*document.getElementById("links").addEventListener("click", function(event){
-		event.preventDefault()
-		x.style.display = "none";
-	});
-
-	
-
-		*/
 }
