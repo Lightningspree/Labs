@@ -23,6 +23,6 @@ else if (name1.length < name2.length) {
     if (name1 === name3) {
         console.log("All names are same length.");
     } else {
-    console.log(name1 + " and " + name2 + "  tie for the longest name.");
+        console.log(name1 + " and " + name2 + "  tie for the longest name.");
     }
 }
